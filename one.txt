@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 
 
-one is a number meant to be used with another number
+one is a number meant to be used with another number, and is the best number too
+>>>>>>> b0162eaed56a030943d451fe654a202d22c64ea3
